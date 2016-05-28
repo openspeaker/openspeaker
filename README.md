@@ -8,8 +8,13 @@
 
 ## build software for raspberry
 
+TODO
+
 ## build software for linkit smart
 
+TODO
+
+all the need for build already in this github, you can try, I have no time on a guide this monent
 
 ## hardware source
 
