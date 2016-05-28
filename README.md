@@ -9,3 +9,8 @@
 ## build software for raspberry
 
 ## build software for linkit smart
+
+
+## hardware source
+
+I think nobody will interest in this, I will export schematic and PCB in PDF format and put it into github soon, also I will provide gerber. i have no time on this now, if anybody really conecern, please drop me a mail or post to forum, then I will do fast
